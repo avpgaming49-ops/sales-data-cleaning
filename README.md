@@ -1,12 +1,12 @@
 # Sales Data Cleaning Using Pandas
 
-##  Project Overview
+## Project Overview
 
 This project focuses on cleaning a messy e-commerce sales dataset using Python and Pandas. My objective was to identify and resolve common data issues to prepare the dataset for Exploratory Data Analysis (EDA).
 
 ---
 
-## 🛠 Dataset Issues Identified
+## Dataset Issues Identified
 
 - Missing values
 - Incorrect data types
@@ -17,7 +17,7 @@ This project focuses on cleaning a messy e-commerce sales dataset using Python a
 
 ---
 
-## 🔧 Data Cleaning Steps
+## Data Cleaning Steps
 
 ### 1. Missing Value Handling
 - Filled missing values in numeric columns using median values.
@@ -44,7 +44,7 @@ This project focuses on cleaning a messy e-commerce sales dataset using Python a
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -54,7 +54,7 @@ This project focuses on cleaning a messy e-commerce sales dataset using Python a
 
 ---
 
-## 📊 Results
+## Results
 
 After cleaning:
 
@@ -66,7 +66,7 @@ After cleaning:
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Validation
@@ -78,7 +78,7 @@ After cleaning:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Sales-Data-Cleaning/
@@ -96,7 +96,7 @@ Sales-Data-Cleaning/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aman**
 
