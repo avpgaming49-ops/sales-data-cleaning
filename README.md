@@ -104,4 +104,9 @@ Sales-Data-Cleaning/
 
 <img width="694" height="344" alt="{4410C360-D111-443A-B94A-FD95BE5B2F52}" src="https://github.com/user-attachments/assets/4e1c849c-8e96-4e69-8d51-ad512f00d723" />
 
+<img width="332" height="338" alt="{158B3E42-EEA2-4725-B2EE-12FD0A9F1AC3}" src="https://github.com/user-attachments/assets/c2cd9a6b-266b-4c19-b641-765513880cac" />
+
+<img width="1122" height="490" alt="{60D77232-9D00-47AD-955D-407A18D63FEB}" src="https://github.com/user-attachments/assets/757b6a29-3036-413e-a41b-4c4e919a6868" />
+
+
 Aspiring Data Scientist | Python | Pandas | NumPy
